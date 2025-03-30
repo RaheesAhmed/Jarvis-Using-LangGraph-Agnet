@@ -9,7 +9,6 @@ Jarvis is an AI assistant built using LangGraph and PyQt5 that can perform a var
 - **UI Automation**: Click buttons, type text, and press keys based on screen content or coordinates.
 - **Terminal Command Execution**: Execute Windows terminal commands for file and system operations
 - **Web Search**: Search the web for up-to-date information
-- **Human-in-the-Loop Security**: Get confirmation for sensitive operations via popup dialogs
 - **Conversation Memory**: Jarvis remembers context from previous interactions
 - **Futuristic UI**: Modern, dark-themed interface with streaming responses
 - **Direct Terminal Access**: Built-in terminal emulator for direct command execution
