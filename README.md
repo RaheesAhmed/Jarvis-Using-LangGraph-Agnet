@@ -106,7 +106,7 @@ The Jarvis UI is divided into two main sections:
    - View command output
    - Type 'help' for a list of common commands
 
-![Jarvis UI](docs/jarvis_ui.png)
+![Jarvis UI](icons/screenshot.png)
 
 ## Extending Jarvis
 
@@ -115,6 +115,13 @@ You can extend Jarvis by adding more tools in the `tools` directory (like `scree
 ### Adding Voice Support
 
 Voice support is planned for a future release. The codebase is designed to make this integration straightforward.
+
+### Future Enhancements
+
+- **Voice Interaction**: Enabling voice commands and responses.
+- **Enhanced UI Automation**: Improving the ability to identify and interact with specific UI elements reliably.
+- **Cross-Platform Support**: Exploring compatibility with macOS and Linux.
+- **Plugin System**: Allowing for easier integration of third-party tools and capabilities.
 
 ## Troubleshooting
 
@@ -130,5 +137,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Built using LangGraph, LangChain, and PyQt5
+- Built using LangGraph, LangChain, PyQt5, and PyAutoGUI
 - Created by Rahees Ahmed
